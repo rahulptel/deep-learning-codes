@@ -1,6 +1,6 @@
 # Neural Networks and Deep Learning 
 
-- A simple feed-forward neural network using numpy
+- [A simple feed-forward neural network using numpy](https://github.com/rahulptel/nn-dpl/blob/master/feed-forward-neural-network.ipynb)
 - RNN from scratch
 - LSTM from scratch
 - Doc2Vec based text classification
