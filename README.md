@@ -9,4 +9,7 @@
 - Probabilistic Pricipal Component Analysis with Generative Adversarial Network
 - Seed improvement in Generative Adversarial Network
 - medGAN implementation
-- Bubble generator using Generative Adversarial Nets and Variational Autoencoders
+- Data Augmentation
+	- Autoencoder for finding the principal components of bubbles
+	- Bubble generation using conditional Variational Autoencoders
+	- Bubble generation using conditional Generative Adversarial Nets
