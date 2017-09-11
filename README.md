@@ -10,6 +10,6 @@
 - Seed improvement in Generative Adversarial Network
 - medGAN implementation
 - Data Augmentation
-	- Autoencoder for finding the principal components of bubbles
+	- [Autoencoder for finding the principal components of bubbles](https://github.com/rahulptel/nn-dpl/blob/master/Data%20Augmentation/autoencoder.ipynb)
 	- Bubble generation using conditional Variational Autoencoders
 	- Bubble generation using conditional Generative Adversarial Nets
